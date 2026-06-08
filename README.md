@@ -186,15 +186,7 @@ garcom_ws/
     └── garcom_missions/
         └── scripts/
             └── missao_garcom.py
-```
 
-Não envie para o GitHub:
-
-```text
-build/
-devel/
-logs/
-```
 
 ---
 
