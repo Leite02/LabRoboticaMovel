@@ -190,7 +190,7 @@ garcom_ws/
 
 ---
 
-# 8. Arquivo `.gitignore`
+## 8. Arquivo `.gitignore`
 
 Crie na raiz do repositório:
 
